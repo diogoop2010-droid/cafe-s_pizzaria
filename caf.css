@@ -1,0 +1,104 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); 
+}
+h1 img {
+    border-radius: 100%; 
+    width: 100px;
+}
+header h1 {
+    color: #00ff00;
+    font-size: 3em;
+    text-shadow: 2px 2px 5px #000;
+}
+nav {
+    margin-top: 10px;
+}
+nav a {
+    color: #f0f0f0;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #00ff00;
+}
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+.hero {
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-shadow: 2px 2px 5px #000;
+}
+.menu {
+    background-color: #222;
+    border-radius: 10px;
+    padding: 20px;
+    border-bottom: #333;
+    border-right: #333;
+}
+.menu h2 {
+    color: #00ff00;
+}
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+.menu li {
+    margin: 10px 0;
+}
+.menu div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu img {
+    width: 100px;
+}
+.history {
+    background-color: rgb(43, 43, 43);
+    border-radius: 10px;
+    padding: 20px;
+}
+.history h2 {
+    color: #00ff00;
+}
+.RPG {
+    background-color: rgb(43, 43, 43);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.RPG h2 {
+    color: #00ff00;
+}
+footer {
+    background-color: #333;
+    padding: 10px;
+    margin-top: 20px;
+}
+footer p {
+    margin: 0;
+}
+@media (max-width: 768px) {
+    h2{
+        color: greenyellow
+    }
+}
+

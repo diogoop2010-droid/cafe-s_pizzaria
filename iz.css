@@ -1,0 +1,59 @@
+h1{
+  
+    /*border: dotted 10px powderblue; */
+    border-top: double 8px rebeccapurple;
+    border-bottom: double 8px teal;
+    border-left: double 8px pink;
+    border-right: solid 8px;
+    /*padding: 10px 20px;*/
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    /*margin: 20px;*/
+    margin-bottom: 22px;
+    margin-left: 21px;
+    margin-right: 23px;
+    margin-top: 24px;    
+
+}
+
+div{
+    height: 100px;
+    width: 145px;
+    background-color: aquamarine;
+    border: double 15px;
+    border-radius: 25%;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
